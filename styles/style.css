@@ -20,6 +20,7 @@ html {
   width: 1200px;
   min-height: 800px;
   justify-content: center;
+  align-items: center;
 }
 
 h1,
